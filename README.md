@@ -69,4 +69,3 @@ git revert HEAD lo hace para revertir el commit
 ~~~
 -PARA ELIMINAR UN ARCHIVO QUE NO QUIERO SUBIR
 ~~~
-git reset HEAD nombre.extensiongit

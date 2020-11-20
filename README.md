@@ -1,6 +1,6 @@
-## trabajo de AADD
-### por ivan hitos Marquez
-comando simportantes que recordar
+## Trabajo de AADD
+### Por: ivan hitos Marquez
+*comandos importantes que recordar*
 
 -CONFIGURAR GIT:
 ~~~
